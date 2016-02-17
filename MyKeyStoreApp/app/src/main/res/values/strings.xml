@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyKeyStoreApp</string>
+    <string name="action_settings">.</string>
+    <string name="button_sign">Sign</string>
+    <string name="edit_sign">Write text to be signed.</string>
+    <string name="button_verify">Verify</string>
+    <string name="edit_verify">Write text to be verified.</string>
+    <string name="generate_keys">Generate keys</string>
+    <string name="verify_result">Result</string>
+    <string name="sign_result">Result</string>
+    <string name="generate_result">No keys generated.</string>
+    <string name="button_generate">Generate keys</string>
+
+</resources>

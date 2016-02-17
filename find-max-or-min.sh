@@ -1,4 +1,13 @@
 #!/bin/bash
+
+# Jenny Tyrväinen 2014
+
+# This was a bash programming exercise, where we were supposed to 
+# combine our shorter scripts. We had a data set of processor 
+# temperatures from a long time and we had to parse the data
+# to find the hottest or coolest temperatures. 
+
+
 unset csv
 unset program
 unset dirname

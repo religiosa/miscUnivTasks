@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Part of find-max-or-min.sh
+# Jenny Tyrväinen 2014
+
 min_temp=100
 min_file="null"
 

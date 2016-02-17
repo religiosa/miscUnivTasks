@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Part of find-max-or-min.sh
+# Jenny Tyrväinen 2014
+
 hottest_temp=0
 hottest_file="null"
 

@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Jenny Tyrväinen 2014
+
+# A task on Bash programming course. 
+# Creates hipstafied versions of .jpg -images.
+
 if [ ! -d $1 ]
 then
     echo "Usage: $0 directory"
